@@ -1,7 +1,0 @@
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/webapp
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/appsettings.Development.json
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/appsettings.json
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/webapp.dll
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/webapp.deps.json
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/webapp.runtimeconfig.json
-/home/simon/source/az204/webapp/bin/Release/netcoreapp3.1/publish/webapp.pdb
