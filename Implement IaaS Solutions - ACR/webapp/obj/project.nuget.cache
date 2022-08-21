@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgukaDeQJbCXTTHW0U4i7RvUM5W5IUcZ1g4/KQpY8fuu3VYFo1rpuT9GgPM3w1g4hrPgHocX7Zk+ovrICzqAmg==",
+  "success": true,
+  "projectFilePath": "/home/simon/source/az204/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/home/simon/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/simon/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/simon/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.28/microsoft.netcore.app.host.linux-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
