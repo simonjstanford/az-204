@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/simon/source/az204/webapp/webapp.csproj",
+      "projectUniqueName": "/home/simon/source/az204/Implement IaaS Solutions - ACR/webapp/webapp.csproj",
       "projectName": "webapp",
-      "projectPath": "/home/simon/source/az204/webapp/webapp.csproj",
+      "projectPath": "/home/simon/source/az204/Implement IaaS Solutions - ACR/webapp/webapp.csproj",
       "packagesPath": "/home/simon/.nuget/packages/",
-      "outputPath": "/home/simon/source/az204/webapp/obj/",
+      "outputPath": "/home/simon/source/az204/Implement IaaS Solutions - ACR/webapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/simon/.nuget/NuGet/NuGet.Config"
