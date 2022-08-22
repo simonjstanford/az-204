@@ -96,6 +96,14 @@ az container create \
     --registry-username $SP_APPID \
     --registry-password $SP_PASSWD 
 
+# Alternatively we could pull an image from Docker Hub
+az container create \
+    --resource-group RND-RG-DCI-TRAINING \
+    --name simon-psdemo-webapp-cli \
+    --image simonjstanford/helloworld:v1 \
+    --ports 80 \
+    --dns-name-label simon-psdemo-webapp-cli 
+
 az container show --resource-group $RESOURCE_GROUP --name simon-psdemo-webapp-cli
 URL=$(az container show --resource-group $RESOURCE_GROUP --name simon-psdemo-webapp-cli --query ipAddress.fqdn | tr -d '"')
 echo $URL
